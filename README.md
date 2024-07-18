@@ -1,6 +1,6 @@
 # Hi, its ITSHahrad! 👋
 
-Hi, I'm Shahrad, a 17y old developer and the CEO of NuXeS Community. Currently, I'm working on web development. Here are some of the technologies I specialize in:
+Hi, I'm Shahrad, a 17y old developer, Here are some of the technologies I specialize in:
 
 ## Skills
 
