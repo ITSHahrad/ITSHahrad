@@ -22,5 +22,5 @@ Feel free to check out my repositories and get in touch!
 ## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/ITSHahrad)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/ITSHahrad)
-[![LinkedIn](https://img.shields.io/badge/-Discord-0077B5?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/P3x2w6GpfX)
+[![Twitter](https://img.shields.io/badge/-Twitter-101010?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/ITSHahrad)
+[![Discord](https://img.shields.io/badge/-Discord-0077B5?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/P3x2w6GpfX)
