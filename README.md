@@ -14,7 +14,7 @@ Hi, I'm Shahrad, a 17y old developer and the CEO of NuXeS Community. Currently, 
 ## About Me
 
 - 🌐 I'm currently working on web development projects.
-- 🎮 CEO of NuXeS Community.
+- 🎮 CEO of <strong>NuXeS Community</strong>.
 - 🌱 Always eager to learn new technologies and improve my skills.
 
 Feel free to check out my repositories and get in touch!
