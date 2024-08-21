@@ -24,5 +24,6 @@ Feel free to check out my repositories and get in touch!
 [![Twitter](https://img.shields.io/badge/-Twitter-101010?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/ITSHahrad)
 [![Discord](https://img.shields.io/badge/-Discord-0077B5?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/P3x2w6GpfX)
 
-
-<img src="https://raw.githubusercontent.com/preetsuthar17/preetsuthar17/output/github-contribution-grid-snake-dark.svg"/>
+## Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=ITSHahrad&show_icons=true&theme=vue-dark&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITSHahrad&layout=compact)
