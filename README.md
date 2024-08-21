@@ -1,8 +1,11 @@
-# Hi, its ITSHahrad! 👋
+<h1>
+  Hi, its ITSHahrad! 👋
+</h1>
+<h2>a 18y old developer, Here are some things about me!</h2>
 
-a 17y old developer, Here are some of the technologies I specialize in:
-
-## Skills
+<h2> 
+  I Working with
+</h2>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://www.javascript.com)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org)
@@ -10,7 +13,7 @@ a 17y old developer, Here are some of the technologies I specialize in:
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)](https://nextjs.org)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://react.dev)
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)](https://tailwindcss.com)
-## About Me
+<h3>About Me</h3>
 
 - 🌐 I'm currently working on web development projects.
 - 🎮 CEO of <strong>NuXeS Community</strong>.
@@ -18,12 +21,15 @@ a 17y old developer, Here are some of the technologies I specialize in:
 
 Feel free to check out my repositories and get in touch!
 
-## Connect with Me
+<h3>
+  Connect with Me
+</h3>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/ITSHahrad)
 [![Twitter](https://img.shields.io/badge/-Twitter-101010?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/ITSHahrad)
 [![Discord](https://img.shields.io/badge/-Discord-0077B5?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/P3x2w6GpfX)
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=979008406293717002)
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=ITSHahrad&show_icons=true&theme=vue-dark&border_radius=10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITSHahrad&layout=compact)
