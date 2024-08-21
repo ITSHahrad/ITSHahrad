@@ -11,8 +11,8 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org)
 [![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge)](https://www.lua.org)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)](https://nextjs.org)
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://react.dev)
-[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)](https://tailwindcss.com)
+[![Express.js](https://img.shields.io/badge/-express.js-000000?logo=express&logoColor=white&style=for-the-badge)](https://expressjs.com)
+[![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://react.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITSHahrad&layout=compact)
 <h3>About Me</h3>
