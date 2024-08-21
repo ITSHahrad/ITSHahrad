@@ -13,6 +13,8 @@
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)](https://nextjs.org)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://react.dev)
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)](https://tailwindcss.com)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITSHahrad&layout=compact)
 <h3>About Me</h3>
 
 - 🌐 I'm currently working on web development projects.
@@ -32,4 +34,3 @@ Feel free to check out my repositories and get in touch!
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=979008406293717002)
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=ITSHahrad&show_icons=true&theme=vue-dark&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITSHahrad&layout=compact)
