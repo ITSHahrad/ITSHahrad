@@ -4,7 +4,7 @@
 <h2>a 18y old developer, Here are some things about me!</h2>
 
 <h2> 
-  I Working with
+  Working on
 </h2>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://www.javascript.com)
