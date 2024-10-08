@@ -25,7 +25,7 @@
 Feel free to check out my repositories and get in touch!
 
 <h3>
-  Connect with Me
+  Be intouch
 </h3>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-101010?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/ITSHahrad)
