@@ -8,37 +8,37 @@
 <table align="middle">
   <tr>
     <td>
-       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="Javascript" />
+       <img src="https://skillicons.dev/icons?i=js" alt="Javascript" />
     </td>
     <td>
-       <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="Typescript" />
+       <img src="https://skillicons.dev/icons?i=ts" alt="Typescript" />
     </td>
     <td>
-       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
+       <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" />
     </td>
     <td>
-       <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="ExpressJS" />
+       <img src="https://skillicons.dev/icons?i=expressjs"  alt="ExpressJS" />
     </td>
         <td>
-       <img src="https://skillicons.dev/icons?i=deno" width="48" height="48" alt="DenoJS" />
+       <img src="https://skillicons.dev/icons?i=deno"  alt="DenoJS" />
     </td>
     <td>
-       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
+       <img src="https://skillicons.dev/icons?i=nextjs"  alt="NextJS" />
     </td>
     <td>
-       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="ReactJS" />
+       <img src="https://skillicons.dev/icons?i=react"  alt="ReactJS" />
     </td>
     <td>
-       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailWindCSS" />
+       <img src="https://skillicons.dev/icons?i=tailwind"  alt="TailWindCSS" />
     </td>
     <td>
-       <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+       <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
     </td>
     <td>
-       <img src="https://skillicons.dev/icons?i=net" width="48" height="48" alt=".NET" />
+       <img src="https://skillicons.dev/icons?i=net" alt=".NET" />
     </td>
     <td>
-       <img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Lua" />
+       <img src="https://skillicons.dev/icons?i=lua"  alt="Lua" />
     </td>
   </tr>
 </table>
