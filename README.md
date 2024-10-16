@@ -1,36 +1,50 @@
-<h1>
-  Hi, its ITSHahrad! 👋
-</h1>
-<h2>a 18y old developer, Here are some things about me!</h2>
+<h1 align="middle">Hi 👋| im Shahrad</h1>
 
-<h2> 
-  Working on
-</h2>
+<h3><bold>Who am i❓</bold></h3>
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://www.javascript.com)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org)
-[![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge)](https://www.lua.org)
-[![C#](https://img.shields.io/badge/C%23-682876?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)](https://nextjs.org)
-[![Express.js](https://img.shields.io/badge/-express.js-000000?logo=express&logoColor=white&style=for-the-badge)](https://expressjs.com)
-[![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://react.dev)
+> **a 18 Years old programmer from Iran 🧑‍💻**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITSHahrad&layout=compact)
-<h3>About Me</h3>
-
-- 🌐 I'm currently working on web development projects.
-- 🎮 CEO of <strong>NuXeS Community</strong>.
-- 🌱 Always eager to learn new technologies and improve my skills.
-
-Feel free to check out my repositories and get in touch!
-
-<h3>
-  Be intouch
-</h3>
-
-[![Twitter](https://img.shields.io/badge/-Twitter-101010?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/ITSHahrad)
-[![Discord](https://img.shields.io/badge/-Discord-0077B5?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/P3x2w6GpfX)
-
-![My Discord](https://discord-readme-badge.vercel.app/api?id=979008406293717002)
-## Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ITSHahrad&show_icons=true&theme=vue-dark&border_radius=10)
+<h3>Languages, frameworks and other things that I like to work with ❤️</h3>
+<table align="middle">
+  <tr>
+    <td>
+       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="Javascript" />
+    </td>
+    <td>
+       <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="Typescript" />
+    </td>
+    <td>
+       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
+    </td>
+    <td>
+       <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="ExpressJS" />
+    </td>
+        <td>
+       <img src="https://skillicons.dev/icons?i=deno" width="48" height="48" alt="DenoJS" />
+    </td>
+    <td>
+       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
+    </td>
+    <td>
+       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="ReactJS" />
+    </td>
+    <td>
+       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailWindCSS" />
+    </td>
+    <td>
+       <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+    </td>
+    <td>
+       <img src="https://skillicons.dev/icons?i=net" width="48" height="48" alt=".NET" />
+    </td>
+    <td>
+       <img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Lua" />
+    </td>
+  </tr>
+</table>
+<h3>Work Report ⭐</h3>
+<div align=left>
+    <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ITSHahrad&theme=vue-dark&hide_border=true" alt="zumrudu-anka" />
+    &nbsp;
+  <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=ITSHahrad&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+</div>
