@@ -1,4 +1,4 @@
-<h1 align="middle">Hi 👋| im Shahrad</h1>
+<h1 align="middle">Hi 👋| im Shahrad ⚛️</h1>
 
 <h3><bold>Who am i❓</bold></h3>
 
