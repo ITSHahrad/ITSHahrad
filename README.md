@@ -3,6 +3,7 @@
 <h3><bold>Who am i❓</bold></h3>
 
 > **a 18 Years old programmer from Iran 🧑‍💻**
+> **CEO of NuXeS Games Community 🎩**
 
 <h3>Languages, frameworks and other things that I like to work with ❤️</h3>
 <table align="middle">
@@ -42,7 +43,7 @@
     </td>
   </tr>
 </table>
-<h3>Work report 📜</h3>
+<h3>Work Report ⭐</h3>
 <div align=left>
     <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ITSHahrad&theme=vue-dark&hide_border=true" alt="zumrudu-anka" />
     &nbsp;
