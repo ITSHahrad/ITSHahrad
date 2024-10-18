@@ -47,7 +47,7 @@
     </td>
   </tr>
 </table>
-<h3>Work Report ⭐</h3>
+<h3>Work report ⭐</h3>
 <div align=left>
     <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ITSHahrad&theme=vue-dark&hide_border=true" alt="zumrudu-anka" />
     &nbsp;
