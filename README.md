@@ -42,9 +42,6 @@
     <td>
        <img src="https://skillicons.dev/icons?i=lua"  alt="Lua" />
     </td>
-    <td>
-      <img src="https://altv.mp/img/branding/logo_green.png" width="50" height="50" alt="AltV">
-    </td>
   </tr>
 </table>
 <h3>Work report ⭐</h3>
