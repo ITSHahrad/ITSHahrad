@@ -15,14 +15,11 @@
     <td>
        <img src="https://skillicons.dev/icons?i=ts" alt="Typescript" />
     </td>
-    <td>
-       <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" />
+        <td>
+       <img src="https://skillicons.dev/icons?i=deno"  alt="DenoJS" />
     </td>
     <td>
        <img src="https://skillicons.dev/icons?i=expressjs"  alt="ExpressJS" />
-    </td>
-        <td>
-       <img src="https://skillicons.dev/icons?i=deno"  alt="DenoJS" />
     </td>
     <td>
        <img src="https://skillicons.dev/icons?i=nextjs"  alt="NextJS" />
