@@ -10,34 +10,28 @@
 <table align="middle">
   <tr>
     <td>
+       <img src="https://skillicons.dev/icons?i=lua"  alt="Lua" />
+    </td>
+    <td>
        <img src="https://skillicons.dev/icons?i=js" alt="Javascript" />
     </td>
     <td>
        <img src="https://skillicons.dev/icons?i=ts" alt="Typescript" />
     </td>
-        <td>
-       <img src="https://skillicons.dev/icons?i=deno"  alt="DenoJS" />
+    <td>
+       <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
     </td>
     <td>
-       <img src="https://skillicons.dev/icons?i=expressjs"  alt="ExpressJS" />
-    </td>
-    <td>
-       <img src="https://skillicons.dev/icons?i=nextjs"  alt="NextJS" />
+       <img src="https://skillicons.dev/icons?i=nodejs"  alt="NodeJS" />
     </td>
     <td>
        <img src="https://skillicons.dev/icons?i=react"  alt="ReactJS" />
     </td>
     <td>
-       <img src="https://skillicons.dev/icons?i=tailwind"  alt="TailWindCSS" />
+       <img src="https://skillicons.dev/icons?i=tailwind"  alt="TailwindCSS" />
     </td>
     <td>
-       <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-    </td>
-    <td>
-       <img src="https://skillicons.dev/icons?i=net" alt=".NET" />
-    </td>
-    <td>
-       <img src="https://skillicons.dev/icons?i=lua"  alt="Lua" />
+       <img src="https://altv.mp/img/branding/logo_green.svg" width="50" height="50" alt="AltV" />
     </td>
   </tr>
 </table>
