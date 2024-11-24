@@ -27,6 +27,9 @@
     <td>
        <img src="https://skillicons.dev/icons?i=react"  alt="ReactJS" />
     </td>
+ <td>
+       <img src="https://skillicons.dev/icons?i=nextjs"  alt="NextJS" />
+    </td>
     <td>
        <img src="https://skillicons.dev/icons?i=tailwind"  alt="TailwindCSS" />
     </td>
