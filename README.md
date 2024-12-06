@@ -19,9 +19,6 @@
        <img src="https://skillicons.dev/icons?i=ts" alt="Typescript" />
     </td>
     <td>
-       <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-    </td>
-    <td>
        <img src="https://skillicons.dev/icons?i=nodejs"  alt="NodeJS" />
     </td>
     <td>
