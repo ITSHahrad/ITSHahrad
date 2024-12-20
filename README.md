@@ -37,7 +37,5 @@
 </table>
 <h3>Work report ⭐</h3>
 <div align=left>
-    <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ITSHahrad&theme=vue-dark&hide_border=true" alt="zumrudu-anka" />
-    &nbsp;
   <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=ITSHahrad&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </div>
