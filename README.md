@@ -22,6 +22,14 @@
        <img src="https://skillicons.dev/icons?i=nodejs"  alt="NodeJS" />
     </td>
     <td>
+       <img src="https://altv.mp/img/branding/logo_green.svg" width="50" height="50" alt="AltV" />
+    </td>
+    </tr>
+  <tr>
+    <td>
+       <img src="https://skillicons.dev/icons?i=express"  alt="Express.js" />
+    </td>
+    <td>
        <img src="https://skillicons.dev/icons?i=react"  alt="ReactJS" />
     </td>
  <td>
@@ -31,7 +39,7 @@
        <img src="https://skillicons.dev/icons?i=tailwind"  alt="TailwindCSS" />
     </td>
     <td>
-       <img src="https://altv.mp/img/branding/logo_green.svg" width="50" height="50" alt="AltV" />
+       <img src="https://skillicons.dev/icons?i=mongodb"  alt="MongoDB" />
     </td>
   </tr>
 </table>
