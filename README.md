@@ -22,7 +22,7 @@
        <img src="https://skillicons.dev/icons?i=nodejs"  alt="NodeJS" />
     </td>
     <td>
-       <img src="https://altv.mp/img/branding/logo_green.svg" width="50" height="50" alt="AltV" />
+       <img src="https://multitheftauto.com/mtasa_icon_hq.png" width="50" height="50" alt="MTA-SA" />
     </td>
     </tr>
   <tr>
