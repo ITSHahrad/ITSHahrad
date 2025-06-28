@@ -22,7 +22,7 @@
        <img src="https://skillicons.dev/icons?i=nodejs"  alt="NodeJS" />
     </td>
     <td>
-       <img src="https://multitheftauto.com/mtasa_icon_hq.png" width="50" height="50" alt="MTA-SA" />
+       <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
     </td>
     </tr>
   <tr>
