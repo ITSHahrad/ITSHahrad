@@ -22,7 +22,7 @@
        <img src="https://skillicons.dev/icons?i=nodejs"  alt="NodeJS" />
     </td>
     <td>
-       <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+       <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
     </td>
     </tr>
   <tr>
