@@ -27,6 +27,9 @@
     </tr>
   <tr>
     <td>
+       <img src="https://skillicons.dev/icons?i=cpp"  alt="CPP" />
+    </td>
+    <td>
        <img src="https://skillicons.dev/icons?i=express"  alt="Express.js" />
     </td>
     <td>
@@ -34,9 +37,6 @@
     </td>
  <td>
        <img src="https://skillicons.dev/icons?i=nextjs"  alt="NextJS" />
-    </td>
-    <td>
-       <img src="https://skillicons.dev/icons?i=tailwind"  alt="TailwindCSS" />
     </td>
     <td>
        <img src="https://skillicons.dev/icons?i=mongodb"  alt="MongoDB" />
