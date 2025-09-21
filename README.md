@@ -4,6 +4,9 @@
 
 ---
 
+[Persian README](https://github.com/ITSHahrad/ITSHahrad/README.fa.md)
+
+---
 ## 👨‍💻 About Me
 Hello! My name is **Shahrad Sheykhlani**, an 18‑year‑old self‑taught programmer from **Neyshabur, Iran**.  
 Currently I’m a **high school student** with a big vision — to **build my career in technology**, explore **modern software engineering practices**, and create solutions that make an impact.
