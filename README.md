@@ -4,7 +4,9 @@
 
 ---
 
-[Persian README](https://github.com/ITSHahrad/ITSHahrad/README.fa.md)
+<p align="center">
+  <a href="./README.fa.md">Persian README.md</a>
+</p>
 
 ---
 ## 👨‍💻 About Me
