@@ -55,6 +55,6 @@
 ---
 
 📫 **راه‌های ارتباطی:**  
-[![Email](https://img.shields.io/badge/ایمیل-shahradshykhlani%40gmail.com-blue)](mailto:itshahrad@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/لینکدین-Shahrad-blue)](https://linkedin.com/in/itshahrad)  
-[![Portfolio](https://img.shields.io/badge/پورتفولیو-وبسایت-green)](itshahrad.ir)
+[![Email](https://img.shields.io/badge/Email-itshahrad@gmail.com-blue)](mailto:itshahrad@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/Linkedin-ITSHahrad-blue)](https://linkedin.com/in/itshahrad)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-website-emerald)](itshahrad.ir)
