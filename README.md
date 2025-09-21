@@ -59,6 +59,6 @@ I started my coding journey out of curiosity and turned it into a passion. Along
 ---
 
 📫 **Reach me at:**  
-[![Email](https://img.shields.io/badge/Email-shahradshykhlani%40gmail.com-blue)](mailto:itshahrad@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shahrad-blue)](https://linkedin.com/in/itshahrad)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](itshahrad.ir)
+[![Email](https://img.shields.io/badge/Email-itshharad%40gmail.com-blue)](mailto:itshahrad@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/Linkedin-ITSHahrad-blue)](https://linkedin.com/in/itshahrad)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-website-emerald)](itshahrad.ir)
