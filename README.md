@@ -25,7 +25,7 @@
        <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
     </td>
     <td>
-       <img src="https://skillicons.dev/icons?i=golang" alt="GOLang" />
+       <img src="https://skillicons.dev/icons?i=go" alt="GoLang" />
     </td>
     </tr>
   <tr>
