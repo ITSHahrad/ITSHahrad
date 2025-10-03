@@ -61,4 +61,4 @@ I started my coding journey out of curiosity and turned it into a passion. Along
 📫 **Reach me at:**  
 [![Email](https://img.shields.io/badge/Email-itshahrad%40gmail.com-blue)](mailto:itshahrad@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/Linkedin-ITSHahrad-blue)](https://linkedin.com/in/itshahrad)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-emerald)](itshahrad.ir)
+[![Portfolio](https://img.shields.io/badge/Portfolio-website-emerald)](https://itshahrad.ir)
