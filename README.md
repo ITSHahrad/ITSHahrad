@@ -43,9 +43,13 @@ I started my coding journey out of curiosity and turned it into a passion. Along
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ITSHahrad&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+</div>
+
+<div align="center">
+  <image width="48%" src="https://www.codewars.com/users/ITSHahrad/badges/large" />
 </div>
 
 ---
