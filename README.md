@@ -28,7 +28,6 @@ I started my coding journey out of curiosity and turned it into a passion. Along
     <td><img src="https://skillicons.dev/icons?i=js" alt="Javascript" /></td>
     <td><img src="https://skillicons.dev/icons?i=ts" alt="Typescript" /></td>
     <td><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" /></td>
-    <td><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></td>
     <td><img src="https://skillicons.dev/icons?i=go" alt="GoLang" /></td>
   </tr>
   <tr>
