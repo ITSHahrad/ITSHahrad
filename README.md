@@ -34,7 +34,6 @@ I started my coding journey out of curiosity and turned it into a passion. Along
     <td><img src="https://skillicons.dev/icons?i=express" alt="Express.js" /></td>
     <td><img src="https://skillicons.dev/icons?i=react" alt="ReactJS" /></td>
     <td><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" /></td>
-    <td><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" /></td>
     <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></td>
     <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></td>
   </tr>
