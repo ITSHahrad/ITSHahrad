@@ -1,30 +1,26 @@
 <h1 align="center">👋 Hey there, I'm <strong>Shahrad ⚛️</strong></h1>
 <h2 align="center">💻 Self-Taught Full-Stack Developer & Tech Enthusiast</h2>
 
-<p align="center">
-  <a href="./README.fa.md">🌐 Persian Version (فارسی)</a>
-</p>
-
 ---
 
 ## 🧠 About Me
-Hey! I’m **Shahrad Sheykhlani**, an **18-year-old self-taught software developer** from **Neyshabur, Iran** 🇮🇷.  
+Hey! I’m **Shahrad Sheykhlani**, **18-years-old self-taught software developer** from **Neyshabur, Iran** 🇮🇷.  
 I’m passionate about **creating scalable, high-performance software** and exploring **modern web architectures** that blend creativity with engineering.
 
-I started coding out of curiosity — and now it’s my lifestyle. I love experimenting, learning by building, and turning ideas into working systems.
+I started coding out of curiosity on Lua and MTA-SA platform — and now it’s my lifestyle. I love experimenting, learning by building, and turning ideas into working systems.
 
-💼 **Founder / CEO** of **NuXeS Games Community** 🎮 — connecting gamers and developers worldwide.  
-🚀 Currently deep-diving into **Go**, **Node.js**, and **distributed backend systems**.  
+
+🚀 Currently deep-diving into **Node.js**, and **distributed backend systems**.  
 🌍 Open-source contributor & lifelong learner chasing technical mastery.
 
 ---
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,go,express,react,nextjs,mongodb,mysql,lua" />
+  <img src="https://skillicons.dev/icons?i=js,ts,lua,nodejs,express,nestjs,react,mongodb,mysql" />
 </p>
 
-> I’m fluent in **JavaScript/TypeScript**, **Go**, and **React** ecosystems — and constantly exploring better patterns for scalability & performance.
+> I’m fluent in **JavaScript/TypeScript**, **Lua**, and **React** ecosystems — and constantly exploring better patterns for scalability & performance.
 
 ---
 
@@ -40,18 +36,20 @@ I started coding out of curiosity — and now it’s my lifestyle. I love experi
 
 ## 📊 Stats
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ITSHahrad&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-  <br />
-  <img width="48%" src="https://www.codewars.com/users/ITSHahrad/badges/large" />
+  <img width="50%" src="https://www.codewars.com/users/ITSHahrad/badges/large" />
+
+  [![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOCkhTvQ)](https://www.git-ranker.com/en/users/ITSHahrad)
+
 </div>
+
 
 ---
 
 ## 🎯 Vision & Goals
-- ⚙️ Build **scalable back-end architectures** using Go & Node.js  
+- ⚙️ Build **scalable back-end architectures** using Node.js  
 - 🌐 Contribute to **open-source** and collaborative engineering communities  
-- ☁️ Explore **cloud systems, real-time communication, and DevOps automation**  
-- 🧩 Grow from a self-taught dev → **professional full-stack engineer**
+- ☁️ Explore **cloud systems, real-time communication, distributed systemss**  
+- 🧩 Grow from a self-taught dev → **professional back-end engineer**
 
 ---
 
