@@ -28,6 +28,7 @@ I started coding out of curiosity on Lua and MTA-SA platform — and now it’s 
 | 🧱 Project | 🔗 Link | 🧠 Description | ⚙️ Stack |
 |------------|----------|----------------|----------|
 | 🎨 **Moeen Vatandoost Portfolio** | [moeen-vatandoost.ir](https://moeen-vatandoost.ir) | A sleek bilingual portfolio for a creative designer, built for performance, SEO, and smooth UX with Framer Motion. | React, Vite, Tailwind, Framer Motion |
+| 👨‍💻 **GhararShop Website** | [ghararshop.com](https://ghararshop.com) | Woocommerce with custom theme website that sales products, SPA page with SEO | React, Wordpress, TailwindCSS |
 | 🕹️ **Resyncer** | [resyncer](https://github.com/ITSHahrad/resyncer) | Simple CLI tool to fetch and sync remote resources into your project. | Node.js |
 
 > ✨ More projects soon on [itshahrad.ir](https://itshahrad.ir)
