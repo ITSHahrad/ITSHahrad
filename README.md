@@ -13,7 +13,7 @@ I started coding out of curiosity on Lua and MTA-SA platform — and now it’s 
   <img src="https://skillicons.dev/icons?i=js,ts,lua,nodejs,express,nestjs,react,mongodb,mysql" />
 </p>
 
-> I’m fluent in **JavaScript/TypeScript**, **Lua**, and **React** ecosystems — and constantly exploring better patterns for scalability & performance.
+> I’m fluent in **JavaScript/TypeScript**, **Lua**, and **Node.js** ecosystems — and constantly exploring better patterns for scalability & performance.
 
 ---
 
@@ -42,7 +42,7 @@ I started coding out of curiosity on Lua and MTA-SA platform — and now it’s 
 ## 🎯 Vision & Goals
 - ⚙️ Build **scalable back-end architectures** using Node.js  
 - 🌐 Contribute to **open-source** and collaborative engineering communities  
-- ☁️ Explore **cloud systems, real-time communication, distributed systemss**  
+- ☁️ Explore **cloud systems, real-time communication, distributed systems**  
 - 🧩 Grow from a self-taught dev → **professional back-end engineer**
 
 ---
