@@ -1,14 +1,7 @@
-<h1 align="center">👋 Hey there, I'm <strong>Shahrad ⚛️</strong></h1>
-<h2 align="center">💻 Self-Taught Full-Stack Developer & Tech Enthusiast</h2>
-
----
-
-## 🧠 About Me
-Hey! I’m **Shahrad Sheykhlani**, **18-years-old self-taught software developer** from **Neyshabur, Iran** 🇮🇷.  
+Hey! I’m **Shahrad Sheykhlani**, **self-taught software developer** from **Neyshabur, Iran** 🇮🇷.  
 I’m passionate about **creating scalable, high-performance software** and exploring **modern web architectures** that blend creativity with engineering.
 
 I started coding out of curiosity on Lua and MTA-SA platform — and now it’s my lifestyle. I love experimenting, learning by building, and turning ideas into working systems.
-
 
 🚀 Currently deep-diving into **Node.js**, and **distributed backend systems**.  
 🌍 Open-source contributor & lifelong learner chasing technical mastery.
