@@ -24,19 +24,6 @@ I started coding out of curiosity on Lua and MTA-SA platform — and now it’s 
 | 👨‍💻 **GhararShop Website** | [ghararshop.com](https://ghararshop.com) | Woocommerce with custom theme website that sales products, SPA page with SEO | React, Wordpress, TailwindCSS |
 | 🕹️ **Resyncer** | [resyncer](https://github.com/ITSHahrad/resyncer) | Simple CLI tool to fetch and sync remote resources into your project. | Node.js |
 
-> ✨ More projects soon on [itshahrad.ir](https://itshahrad.ir)
-
----
-
-## 📊 Stats
-<div align="center">
-  <img width="50%" src="https://www.codewars.com/users/ITSHahrad/badges/large" />
-
-  [![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOCkhTvQ)](https://www.git-ranker.com/en/users/ITSHahrad)
-
-</div>
-
-
 ---
 
 ## 🎯 Vision & Goals
